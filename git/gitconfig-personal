@@ -1,0 +1,13 @@
+[user]
+	name = sean-b-walker
+	email = 360443950+sean-b-walker@users.noreply.github.com
+
+[gpg]
+    format = ssh
+
+[commit]
+    gpgsign = true
+
+[gpg "ssh"]
+    defaultKeyCommand = ssh-add -L
+
