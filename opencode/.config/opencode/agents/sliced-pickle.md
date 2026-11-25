@@ -1,0 +1,1 @@
+/Users/sean/personal_projects/rustbucket_repo/agents/sliced-pickle/AGENT.md
